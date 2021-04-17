@@ -14,3 +14,4 @@ RAVALIK
 <marquee behavior="scroll" direction="right" scrollamount="12">ROHIT</marquee>
 <marquee behavior="scroll" direction="left" scrollamount="20">RAVALIKA</marquee>
 <marquee behavior="scroll" direction="right" scrollamount="50">RAVI</marquee>
+<marquee behavior="scroll" direction="right" scrollamount="50">DUGGU</marquee>
