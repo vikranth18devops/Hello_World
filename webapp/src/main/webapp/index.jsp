@@ -10,18 +10,4 @@ VIKRANTH
 RAVALIK
 </marquee>
 
-<marquee behavior="scroll" direction="up" scrollamount="1">VIKRANTH</marquee>
-<marquee behavior="scroll" direction="right" scrollamount="12">ROHIT</marquee>
-<marquee behavior="scroll" direction="left" scrollamount="20">RAVALIKA</marquee>
-<marquee behavior="scroll" direction="right" scrollamount="50">RAVI</marquee>
-<marquee behavior="scroll" direction="right" scrollamount="50">DUGGU</marquee>
-<marquee behavior="scroll" direction="up" scrollamount="20 style="color: #731768;">
- AD"VIK"----DUGGU
-</marquee>
-        <marquee behavior="scroll" direction="right" scrollamount="20 style="color: Red;">
- AD"VIK"----DUGGU
-</marquee>
 
-<marquee behavior="scroll" direction="left" scrollamount="20 style="color: Blue;">
- AD"VIK"----DUGGU
-</marquee>
