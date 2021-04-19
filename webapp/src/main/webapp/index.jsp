@@ -10,4 +10,11 @@ VIKRANTH
 RAVALIK
 </marquee>
 
+<marquee width="60%" direction="left" height="100px">
+VIKRANTH LOVES RAVALIK
+</marquee>
+<marquee width="60%" direction="right" height="100px">
+VIKRANTH LOVES RAVALIK
+</marquee>
+
 
